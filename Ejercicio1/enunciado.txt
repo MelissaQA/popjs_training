@@ -1,0 +1,6 @@
+Ejercicio 1: De un listado de lenguajes de programación y sus salarios promedio anuales, se calcula:
+    - Salario promedio
+    - Salario en COP
+    - Salario mensual
+    - Se muestran 3 lenguajes diferentes a los de la lista
+    - Se ordena de mayor a menor el listado

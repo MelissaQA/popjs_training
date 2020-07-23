@@ -1,0 +1,14 @@
+{
+	"languages":[
+		{"name":"Python", "average_salary": "120000"},
+		{"name":"Java", "average_salary": "104000"},
+		{"name":"JavaScript", "average_salary": "114000"},
+		{"name":"C++", "average_salary": "108000"},
+		{"name":"C#", "average_salary": "96000"},
+		{"name":"C", "average_salary": "104000"},
+		{"name":"PHP", "average_salary": "90000"},
+		{"name":"Ruby", "average_salary": "134000"},
+		{"name":"Swift", "average_salary": "125000"},
+		{"name":"GO", "average_salary": "93000"}
+	]
+}
